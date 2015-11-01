@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Signature", "WebApi.Signature\WebApi.Signature.csproj", "{A7D8BC53-6DD8-411A-A66A-9B0E3CB4E350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Signature.WebApp", "WebApi.Signature.WebApp\WebApi.Signature.WebApp.csproj", "{6E889963-972F-4ADB-91E3-4374A7AC7F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D8BC53-6DD8-411A-A66A-9B0E3CB4E350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D8BC53-6DD8-411A-A66A-9B0E3CB4E350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D8BC53-6DD8-411A-A66A-9B0E3CB4E350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D8BC53-6DD8-411A-A66A-9B0E3CB4E350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E889963-972F-4ADB-91E3-4374A7AC7F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E889963-972F-4ADB-91E3-4374A7AC7F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E889963-972F-4ADB-91E3-4374A7AC7F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E889963-972F-4ADB-91E3-4374A7AC7F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

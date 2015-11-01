@@ -1,0 +1,4 @@
+c:\users\wsh.asus-k551ln\documents\visual studio 2015\Projects\WebApi.Signature\WebApi.Signature\bin\Debug\WebApi.Signature.dll
+c:\users\wsh.asus-k551ln\documents\visual studio 2015\Projects\WebApi.Signature\WebApi.Signature\bin\Debug\WebApi.Signature.pdb
+c:\users\wsh.asus-k551ln\documents\visual studio 2015\Projects\WebApi.Signature\WebApi.Signature\obj\Debug\WebApi.Signature.dll
+c:\users\wsh.asus-k551ln\documents\visual studio 2015\Projects\WebApi.Signature\WebApi.Signature\obj\Debug\WebApi.Signature.pdb

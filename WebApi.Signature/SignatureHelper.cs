@@ -48,10 +48,10 @@ namespace WebApi.Signature
         }
 
         /// <summary>
-        /// 使用 MD5 雜湊指定字串，並將結果轉換成 10 進位字串
+        /// 使用 MD5 雜湊指定字串，並將結果轉換成字串
         /// </summary>
         /// <param name="content">要雜湊字串</param>
-        /// <returns>雜湊結果 10 進位內容</returns>
+        /// <returns>雜湊結果字串</returns>
         public static string MD5ToHex(string content)
         {
             if (string.IsNullOrWhiteSpace(content) == true)
